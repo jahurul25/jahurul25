@@ -8,7 +8,7 @@
 
 - 🔭 I’m currently working on **ERP Software**
 
-- 🌱 I’m currently learning **Machine Learning, Data Science**
+- 🌱 I’m currently learning **AI, Machine Learning, Data Science**
 
 - 📫 How to reach me **jahurul25@gmail.com**
 
